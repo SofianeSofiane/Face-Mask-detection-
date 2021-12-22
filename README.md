@@ -11,5 +11,6 @@
  - 5483 with mask
  - 5483 without mask
 ## Results
-I got the following accuracy/loss curve plot
+- I got the following accuracy/loss curve plot
+![j](https://user-images.githubusercontent.com/96339267/147086555-c0e72645-f495-4e8b-8f92-192dd5959903.png)
 
